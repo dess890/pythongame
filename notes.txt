@@ -1,0 +1,25 @@
+Final Fantasy RPG where the Cloud and Aerith fight monsters and your status go up after every battle.
+
+things that the game would need
+
+cloud 
+-base stats 
+- his attack moves 
+- (limit instakills hehe)
+
+Aerith
+- stats
+- attack moves
+-limit
+
+monsters
+- make a group of maybe 3-4 monsters?
+- easy, normal, hard, very hard
+- who wins is based off of stats (so could use conditional-- if a player is stronger than b, then a player wins. vice versa)
+
+lots of menus!!!
+-main menu to enter game
+- menu for cloud (includes fight, heal, swap character)
+-menu for Aerith (includes fight, heal, swap character)
+
+
